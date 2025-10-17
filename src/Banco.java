@@ -2,8 +2,6 @@
 public class Banco {
 
 	public static void main(String[] args) {
-
-		System.out.println("Texto para testar o Git push");
 		
 		ContaPoupanca poupanca = new ContaPoupanca("CONTA POUPANÇA", 1111, 2222);
 		
